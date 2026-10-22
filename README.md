@@ -1,5 +1,7 @@
 # feed
 
+**English** · [中文](README.zh-CN.md)
+
 [![CI](https://github.com/turinglambdaai/feed/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/feed/actions/workflows/ci.yml)
 
 RSS 2.0 and Atom feed parsing for Racket. Pure: bytes in, items out —
