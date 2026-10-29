@@ -2,7 +2,7 @@
 
 [English](README.md) · **中文**
 
-[![CI](https://github.com/turinglambdaai/feed/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/feed/actions/workflows/ci.yml)
+[![CI](https://github.com/turlamai/feed/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/feed/actions/workflows/ci.yml)
 
 Racket 的 RSS 2.0 与 Atom 解析库。纯函数：字节进、条目出——抓取、HTML 清洗、去重策略都留给调用者。
 
