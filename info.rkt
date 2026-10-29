@@ -7,5 +7,5 @@
 (define scribblings '(("scribblings/feed.scrbl" ())))
 (define pkg-desc "RSS 2.0 and Atom feed parsing on plain xexprs")
 (define license 'MIT)
-(define pkg-authors '(turinglambdaai))
+(define pkg-authors '(turlamai))
 (define test-omit-paths '("scribblings"))
