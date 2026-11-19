@@ -1,7 +1,5 @@
 # feed
 
-**Support:** [Issues & feedback](https://github.com/turlamai/feed/issues) · [Development policy](https://github.com/turlamai/turlamai.github.io/blob/master/PORTFOLIO.md)
-
 **English** · [中文](README.zh-CN.md)
 
 [![CI](https://github.com/turlamai/feed/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/feed/actions/workflows/ci.yml)
